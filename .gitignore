@@ -1,0 +1,4 @@
+nfl-r/.Rproj.user/*
+nfl-r/.RDataTmp
+nfl-r/.RHistory
+*.parquet
